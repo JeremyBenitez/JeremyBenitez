@@ -1,3 +1,15 @@
+.github/workflows
+
+
+pacman.yml
+
+
+README.md
+
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <div align="center">
   <img height="200" src="https://avatars.githubusercontent.com/u/93605863?s=400&u=49cc748ddcca966ea20391c1d55609b53f19bb15&v=4"  />
 </div>
@@ -39,9 +51,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="60" alt="astro logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="60" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 
 ###
@@ -53,12 +67,6 @@
   <a href="benitezjeremy847@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JeremyBenitez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -76,3 +84,40 @@
 </div>
 
 ###
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Share
+Privacy Policy
+Copy File Content
+Level Up Your README
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
+
+
+Boost Your English
+Real devs debug in English.
+
+💰 Get 70% OFF your first trial lesson and start to boost your english with top tutors worldwide on Preply 🚀
+
+👉 Get 70% OFF 👈
+
+Clean Code
+A Handbook of Agile Software Craftsmanship by Uncle Bob.
+
+Get the book
+
+Clean Architecture
+Software Architecture Solutions from Uncle Bob.
+
+Get the book
+
+Explore More Books
+Browse the full list of curated titles to boost your coding skills.
+
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+Profile Readme Generator
