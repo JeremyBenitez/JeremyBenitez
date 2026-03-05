@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- GitHub Logo en blanco (funciona en modo oscuro/claro) -->
+  <!-- GitHub Logo en blanco -->
   <img src="https://skillicons.dev/icons?i=github" height="120" alt="github logo" />
   
   <br>
@@ -79,11 +79,23 @@
   <br>
   <br>
   
-  <!-- GitHub Stats Card - SIEMPRE FUNCIONA -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JeremyBenitez&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" width="48%" alt="GitHub Stats" />
+  <!-- ALTERNATIVA 1 PARA GITHUB STATS - Metrics (MUY CONFIABLE) -->
+  <img src="https://metrics.lecoq.io/JeremyBenitez?template=classic&isocalendar=1&languages=1&stars=1&achievements=1&lines=1" width="70%" alt="GitHub Metrics" />
   
-  <!-- Top Languages - SIEMPRE FUNCIONA -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyBenitez&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF00FF" width="40%" alt="Top Languages" />
+  <br>
+  <br>
+  
+  <!-- ALTERNATIVA 2 - Profile Summary Cards (100% FUNCIONAL) -->
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeremyBenitez&theme=radical" width="32%" alt="Repos per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JeremyBenitez&theme=radical" width="32%" alt="Most commit language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeremyBenitez&theme=radical" width="32%" alt="Stats" />
+  </div>
+  
+  <br>
+  
+  <!-- ALTERNATIVA 3 - Wakatime Style (si usas Wakatime) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeremyBenitez&theme=midnight-purple&hide_border=true" width="48%" alt="Wakatime Stats" /> -->
 </div>
 
 <!-- Divisor -->
@@ -91,19 +103,19 @@
   <hr width="80%" color="#00FFFF" size="2">
 </div>
 
-<!-- Contribution Graph Section - 100% VIGENTE Y CONFIABLE -->
+<!-- Contribution Graph Section -->
 <h2 align="center">
   📈 Contribution Graph 📈
 </h2>
 
 <div align="center">
-  <!-- GitHub Activity Graph - SIEMPRE FUNCIONA (servicio estable) -->
+  <!-- GitHub Activity Graph - SIEMPRE FUNCIONA -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyBenitez&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=FF00FF&line=00FFFF&point=FFFFFF" width="95%" alt="Activity Graph">
   
   <br>
   <br>
   
-  <!-- GitHub Profile Summary Cards - 100% CONFIABLE -->
+  <!-- Profile Details Card - COMPLEMENTO -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeremyBenitez&theme=radical" width="90%" alt="Profile Summary" />
 </div>
 
