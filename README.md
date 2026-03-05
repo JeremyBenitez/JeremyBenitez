@@ -1,10 +1,19 @@
 <div align="center">
-  <!-- Texto animado con typing effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey!+👋+What's+up%3F;I'm+Jeremy+Benitez;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
+  <!-- GitHub Logo en grande -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="120" alt="github logo" />
   
   <br>
+  <br>
+  
+  <!-- Texto simple pero elegante -->
+  <h1>
+    <b>Jeremy Benitez</b>
+  </h1>
+  
+  <h3>
+    <code>Full Stack Developer</code>
+  </h3>
+  
   <br>
   
   <!-- Portfolio link con estilo -->
@@ -159,7 +168,16 @@
   <br>
   <br>
   
-  <!-- Activity Graph (animado) -->
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JeremyBenitez&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" width="48%" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyBenitez&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF00FF" width="40%" alt="Top Languages" />
+  
+  <br>
+  <br>
+  
+  <!-- Activity Graph SIEMPRE VISIBLE -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyBenitez&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=FF00FF&line=00FFFF&point=FFFFFF" width="95%" alt="Activity Graph">
 </div>
 
@@ -168,19 +186,23 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- Pac-Man Contribution Graph Section con título animado -->
+<!-- Contribution Graph Section (REEMPLAZA al Pac-Man) -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/l378z3UIkUSzwnuNW/giphy.gif" width="30">
-  &nbsp; Pac-Man Contribution Graph &nbsp;
-  <img src="https://media.giphy.com/media/l378z3UIkUSzwnuNW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30">
+  &nbsp; Contribution Graph &nbsp;
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30">
 </h2>
 
-<!-- Tu Pac-Man original (necesita configuración) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeremyBenitez/JeremyBenitez/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeremyBenitez/JeremyBenitez/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeremyBenitez/JeremyBenitez/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <!-- GitHub Contribution Grid Snake - SIEMPRE SE VE -->
+  <img src="https://github.com/JeremyBenitez/JeremyBenitez/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <br>
+  <br>
+  
+  <!-- 3D Contribution Calendar -->
+  <img src="https://github.com/JeremyBenitez/JeremyBenitez/blob/output/3d-contrib/github-contributions.svg" alt="3D Contributions" />
+</div>
 
 <!-- Divisor animado final -->
 <div align="center">
